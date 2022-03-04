@@ -1,2 +1,2 @@
 3D Graphics done in a Terminal.
-[hello](pic.png)
+![hello](pic.png)
